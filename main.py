@@ -1,3 +1,4 @@
+# Версия 2.0 от 29.04.2025
 from base_cost_calculator import BaseCostCalculator
 from manual_lift_cost_calculator import ManualLiftCostCalculator
 
