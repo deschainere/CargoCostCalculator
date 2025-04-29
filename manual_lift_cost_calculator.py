@@ -1,3 +1,4 @@
+# class
 class ManualLiftCostCalculator:
     @staticmethod
     def calculate(weight, floor):
